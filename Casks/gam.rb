@@ -1,6 +1,6 @@
 cask "gam" do
-  version "1.0.9"
-  sha256 "534880c74559a7440010ba5e79954ccb55e574d71888ad01e7bcb3f0575c165f"
+  version "1.0.10"
+  sha256 "334195da3838b706373394a7d57fbd120c7377e2e6bc70ecdc3f0f38d8e82892"
 
   url "https://github.com/zintaen/gam/releases/download/v#{version}/GAM_#{version}_aarch64.dmg"
   name "GAM"
